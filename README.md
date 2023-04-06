@@ -50,19 +50,9 @@
     </p>
 
 
+------------
 
-
-- <p align = "left">
-    <details>
-      <summary><strong> 📊 Github Metrics:</strong></summary>
-      <br/>
-      <br/>
-      <br/>
-      <p align="left">
-      <img src="./github-metrics.svg">
-      </p>
-    </details>
-  </p>
+![Snake animation](https://github.com/caiovitorlchaves/caiovitorlchaves/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
