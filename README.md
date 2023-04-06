@@ -52,7 +52,7 @@
 
 ------------
 
-![Snake animation](https://github.com/caiovitorlchaves/caiovitorlchaves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caiovitorlchaves/caiovitorlchaves/blob/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
