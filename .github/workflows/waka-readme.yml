@@ -1,9 +1,9 @@
 name: Waka Readme
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '0 */24 * * *'
+  # Schedule updates (each day)
+  schedule: [{cron: "0 */2 * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
 jobs:
   update-readme:
