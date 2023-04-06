@@ -62,7 +62,15 @@
 
 📊 **Development Breakdown:**
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
+=======
+![Code Time]
+
+![Profile Views]
+
+![Lines of code]
+>>>>>>> 9d902faf8047289961fd29f9cb9a171b21d478df
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
