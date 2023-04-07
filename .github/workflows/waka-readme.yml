@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "True"
           COMMIT_BY_ME: "True"
-          LOCALE: "PT-BR"
+          LOCALE: "en"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_DAYS_OF_WEEK: "True"
