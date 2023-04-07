@@ -32,4 +32,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "True"
           DEBUG_LOGGING: "True"
-          LOCALE: "en"
+          LOCALE: "en_US"
