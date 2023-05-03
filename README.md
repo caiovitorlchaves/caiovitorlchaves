@@ -18,10 +18,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
-- 🔭 I’m currently working on [***No Activity***]()
-- 🌱 I’m currently learning **No Activity**
-- 🤵 My portfolio [**No Activity**]()
 - <p align = "left">
       <details>
       <summary><strong> ☎️ Connect with me:</strong></summary>
