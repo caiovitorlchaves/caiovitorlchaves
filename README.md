@@ -59,78 +59,7 @@
 
 📊 **Development Breakdown:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.2%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 77 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                17 commits          ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-🌃 Evening                58 commits          ███████████████████░░░░░░   77.33 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                17 commits          ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Thursday                 58 commits          ███████████████████░░░░░░   77.33 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   36 mins             ██████████████████████░░░   88.99 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-
-🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-PYTHON                   40 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
-
-
- Last Updated on 03/05/2023 21:46:54 UTC
 <!--END_SECTION:waka-->
 
 
