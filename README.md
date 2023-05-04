@@ -59,7 +59,7 @@
 
 📊 **Development Breakdown:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
@@ -104,17 +104,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   36 mins             ██████████████████████░░░   88.99 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Python                   1 hr 41 mins        ████████████████████████░   95.76 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PYTHON                   40 mins             █████████████████████████   100.00 % 
+PYTHON                   1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -130,7 +130,7 @@ Jupyter Notebook         1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 04:11:23 UTC
+ Last Updated on 04/05/2023 06:12:43 UTC
 <!--END_SECTION:waka-->
 
 
