@@ -45,7 +45,7 @@
 
 ------------
 
-![Snake animation](https://github.com/caiovitorlchaves/caiovitorlchaves/blob/master/github-contribution-grid-snake.svg)
+
 
 <br/>
 <br/>
