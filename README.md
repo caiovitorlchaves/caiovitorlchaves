@@ -13,8 +13,9 @@
 
 ------------
 <div style="display: inline_block" align = "center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&langs_count=7&theme=dark"/>
+ <a href="https://github.com/caiovitorlchaves">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 - <p align = "left">
