@@ -59,7 +59,7 @@
 
 📊 **Development Breakdown:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-310-blue)
 
@@ -135,7 +135,7 @@ Jupyter Notebook         1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2023 02:25:55 UTC
+ Last Updated on 12/05/2023 04:11:40 UTC
 <!--END_SECTION:waka-->
 
 
