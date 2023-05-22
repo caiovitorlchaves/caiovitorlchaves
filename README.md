@@ -104,19 +104,16 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    0 secs              ██████████████░░░░░░░░░░░   56.66 % 
-Text                     0 secs              █████████░░░░░░░░░░░░░░░░   35.81 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-guard_stock              0 secs              ██████████████░░░░░░░░░░░   56.66 % 
-desafio_fabrica-de-softwa0 secs              ███████████░░░░░░░░░░░░░░   43.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -135,7 +132,7 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2023 04:11:43 UTC
+ Last Updated on 22/05/2023 06:13:17 UTC
 <!--END_SECTION:waka-->
 
 
