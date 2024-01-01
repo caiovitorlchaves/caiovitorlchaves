@@ -69,7 +69,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,7 +132,7 @@ Jupyter Notebook         1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2023 22:09:03 UTC
+ Last Updated on 01/01/2024 00:51:58 UTC
 <!--END_SECTION:waka-->
 
 
