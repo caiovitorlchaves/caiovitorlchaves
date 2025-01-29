@@ -1,7 +1,7 @@
  <h1>Iai. tranquilo?<img src="https://media.tenor.com/Ltkxy1o-AZEAAAAC/hang-loose-shaka.gif" width="30"/> </h1>
  
  </div>
-<h3 align = "center"> Meu nome é Caio Vitor Lopes Chaves, tenho 24 anos e desde muito cedo tive o interesse por tecnologia, sempre descobrindo como usar, consertar e ir mais além. Me graduei em ciência da computação com o objetivo de obter mais conhecimentos para realmente por em prática aquilo que eu almejo fazer durante minha carreira. Atualmente sou funcionário público da prefeitura municipal de João Pessoa como suporte técnico, porém ainda procuro por oportunidades nas área de desenvolvimento. Possuo facilidades de trabalhar com algumas tecnologias como Python e SQL, mas isso não me impede de buscar conhecimento e trabalhar com outras tecnologias. Posso não ser o melhor, mas tenho certeza que ofereço o melhor desempenho dentro daquilo que me é passado.</h3> 
+<h3 align = "center"> Meu nome é Caio Vitor Lopes Chaves, tenho 25 anos e desde muito cedo desenvolvi um grande interesse por tecnologia. Sempre busquei entender como usar, consertar e explorar ao máximo os recursos disponíveis. Para aprofundar meus conhecimentos, me graduei em Ciência da Computação, visando aplicar esses aprendizados na minha carreira. Atualmente, faço parte do time de Suporte Técnico na filial da IXC Soft no Nordeste e estou cursando Sistemas para Internet. Tenho uma facilidade na área de desenvolvimento, especialmente com as tecnologias Python e SQL, embora esteja sempre aberto a aprender e trabalhar com novas ferramentas. Embora não me considere o melhor, estou comprometido em oferecer o meu melhor desempenho em tudo o que faço, buscando sempre entregar resultados de alta qualidade.</h3> 
 
 <div>
 
