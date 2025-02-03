@@ -1,7 +1,7 @@
  <h1>Iai. tranquilo?<img src="https://media.tenor.com/Ltkxy1o-AZEAAAAC/hang-loose-shaka.gif" width="30"/> </h1>
  
  </div>
-<h3 align = "center"> Meu nome é Caio Vitor Lopes Chaves, tenho 25 anos e desde muito cedo desenvolvi um grande interesse por tecnologia. Sempre busquei entender como usar, consertar e explorar ao máximo os recursos disponíveis. Para aprofundar meus conhecimentos, me graduei em Ciência da Computação, visando aplicar esses aprendizados na minha carreira. Atualmente, faço parte do time de Suporte Técnico na filial da IXC Soft no Nordeste e estou cursando Sistemas para Internet. Tenho uma facilidade na área de desenvolvimento, especialmente com as tecnologias Python e SQL, embora esteja sempre aberto a aprender e trabalhar com novas ferramentas. Embora não me considere o melhor, estou comprometido em oferecer o meu melhor desempenho em tudo o que faço, buscando sempre entregar resultados de alta qualidade.</h3> 
+<h3 align = "center"> Meu nome é Caio Vitor Lopes Chaves, tenho 25 anos e desde muito cedo desenvolvi um grande interesse por tecnologia. Sempre busquei entender como usar, consertar e explorar ao máximo os recursos disponíveis. Para aprofundar meus conhecimentos, me graduei em Ciência da Computação, visando aplicar esses aprendizados na minha carreira. Atualmente, procuro oportunidades como Analista de Suporte Técnico, Desenvolvedor e estou cursando Sistemas para Internet. Tenho uma facilidade na área de desenvolvimento, especialmente com as tecnologias Python e SQL, embora esteja sempre aberto a aprender e trabalhar com novas ferramentas. Embora não me considere o melhor, estou comprometido em oferecer o meu melhor desempenho em tudo o que faço, buscando sempre entregar resultados de alta qualidade.</h3> 
 
 <div>
 
