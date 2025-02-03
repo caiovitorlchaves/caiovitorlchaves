@@ -22,8 +22,8 @@
       <details>
       <summary><strong> ☎️ Connect with me:</strong></summary>
       <p align="left">
-      <a href="https://www.linkedin.com/in/caiovitorlchaves/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="caio-vitorl-chaves" /></a>
-      <a href="mailto:caiovitorlchaves@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+      [![Linkedin](https://img.shields.io/badge/Arthur%20Suassuna-000?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/caiovitorlchaves/)
+     [![E-mail](https://img.shields.io/badge/caiovitorlchaves@gmail.com-000?style=for-the-badge&logo=Gmail)]()
       
 
     </p>
