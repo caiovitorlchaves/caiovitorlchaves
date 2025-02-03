@@ -80,21 +80,12 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-🌆 Daytime                77 commits          ██████████░░░░░░░░░░░░░░░   39.09 % 
-🌃 Evening                103 commits         █████████████░░░░░░░░░░░░   52.28 % 
-🌙 Night                  15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Wednesday                97 commits          ████████████░░░░░░░░░░░░░   49.24 % 
-Thursday                 73 commits          █████████░░░░░░░░░░░░░░░░   37.06 % 
-Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+
 ```
 
 
@@ -119,10 +110,7 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Jupyter Notebook         1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+
 ```
 
 
