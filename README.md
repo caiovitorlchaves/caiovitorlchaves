@@ -61,15 +61,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,12 +78,21 @@
 **I'm a Night 🦉** 
 
 ```text
-
+🌞 Morning                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+🌆 Daytime                78 commits          ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌃 Evening                106 commits         █████████████░░░░░░░░░░░░   52.74 % 
+🌙 Night                  15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Tuesday                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Wednesday                97 commits          ████████████░░░░░░░░░░░░░   48.26 % 
+Thursday                 73 commits          █████████░░░░░░░░░░░░░░░░   36.32 % 
+Friday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Saturday                 14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 
 
@@ -110,7 +117,10 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
@@ -120,7 +130,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 16:15:58 UTC
+ Last Updated on 03/02/2025 22:11:48 UTC
 <!--END_SECTION:waka-->
 
 
