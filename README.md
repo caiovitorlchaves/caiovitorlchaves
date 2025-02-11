@@ -69,8 +69,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -138,7 +136,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/caiovitorlchaves/caiovitorlchaves/master/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 09:22:31 UTC
+ Last Updated on 11/02/2025 10:23:03 UTC
 <!--END_SECTION:waka-->
 
 
