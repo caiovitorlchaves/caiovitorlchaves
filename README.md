@@ -4,8 +4,10 @@
 
 ## GitHub Stats
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&theme=dark)
+<div style="display: flex; justify-content: space-between;">
+    <img height="200cm"  src="https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
 ---
 
