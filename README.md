@@ -1,13 +1,10 @@
-<h1 align="center">Hey, okay?!?! <img src="https://example.com/hanlose_emoji.png" alt="Hanlose Emoji" width="30"></h1>
+<h1 align="center">Hey, okay?!?! <img src="https://media1.tenor.com/m/Ltkxy1o-AZEAAAAC/hang-loose-shaka.gif" alt="Hanglose Emoji" width="50"></h1>
 
 ---
 
 ## GitHub Stats
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark)
-
-## Most Used Languages
-
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&theme=dark)
 
 ---
@@ -46,10 +43,3 @@
 </p>
 
 ---
-
-## Wakatime Stats
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiovitorlchaves&layout=compact&theme=dark)
-
----
-```` ▋
