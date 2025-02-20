@@ -4,11 +4,11 @@
 
 ## GitHub Stats
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=radical)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiovitorlchaves&show_icons=true&theme=dark)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiovitorlchaves&layout=compact&theme=dark)
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Wakatime Stats
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiovitorlchaves&layout=compact&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiovitorlchaves&layout=compact&theme=dark)
 
 ---
 ```` ▋
